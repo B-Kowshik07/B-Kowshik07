@@ -1,3 +1,17 @@
+# 💫 Hi 👋, I'm Venkata Kowshik
+**A passionate Software Developer**
+
+Email Me 👉 ✉️ **venkatakowshik@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Pyhon Real time projects
+- 🌱 **I’m currently learning:** Java Script,Powerbi
+- 👯 **I’m looking to collaborate on:** Any projects
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** venkatakowshik07@gmail.cpm
+- 😄 **Pronouns:** Kowshik
+- ⚡ **fact:**  Believe in Progress, Not in Result
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Venkata Kowshik) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kowshik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Boggarapu Venkata Kowshik) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kowshik_07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@it's Kowshik) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:venkatakowshik07@gmail.com) 

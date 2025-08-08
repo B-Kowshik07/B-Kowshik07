@@ -6,10 +6,10 @@ Email Me 👉 ✉️ **venkatakowshik@gmail.com** For Collaboration/Project or A
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-PHP-000?&logo=Php)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3)
 
 ### Frameworks
 
